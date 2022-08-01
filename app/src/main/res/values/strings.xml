@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced Databinding</string>
+
+    <string name="age">Age: %1$s </string>
+    <string name="designation">Designation: %1$s </string>
+
+</resources>
