@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Yaqoob/UnderWorking/AdvancedDatabinding/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Yaqoob/UnderWorking/AdvancedDatabinding/app/src/main/res/layout/activity_one_way_binding.xml" value="0.24954710144927536" />
         <entry key="..\:/Yaqoob/UnderWorking/AdvancedDatabinding/app/src/main/res/layout/activity_simple_data_binding.xml" value="0.358695652173913" />
+        <entry key="..\:/Yaqoob/UnderWorking/AdvancedDatabinding/app/src/main/res/layout/activity_two_way_binding.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

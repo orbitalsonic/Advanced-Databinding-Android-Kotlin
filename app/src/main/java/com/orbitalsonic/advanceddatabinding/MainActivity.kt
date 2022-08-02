@@ -14,16 +14,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this,R.layout.activity_main)
 
-        binding.btnSdb.setOnClickListener {
-            startActivity(Intent(this,SimpleDataBindingActivity::class.java))
+        binding.btnOneway.setOnClickListener {
+            startActivity(Intent(this,OneWayBindingActivity::class.java))
         }
 
-        binding.btnTwb.setOnClickListener {
-
-        }
-
-        binding.btnVmb.setOnClickListener {
-
+        binding.btnTwoway.setOnClickListener {
+            startActivity(Intent(this,TwoWayBindingActivity::class.java))
         }
 
     }

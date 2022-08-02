@@ -12,7 +12,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".SimpleDataBindingActivity">
+        tools:context=".OneWayBindingActivity">
         <ImageView
             android:id="@+id/iv_profile_image"
             android:layout_width="120dp"
